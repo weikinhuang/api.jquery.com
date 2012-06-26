@@ -23,8 +23,9 @@
   "dependencies": {
     "grunt": "0.3.x",
     "grunt-clean": "0.1.0",
-    "grunt-wordpress": "1.0.0",
-    "grunt-jquery-content": "0.2.2"
+    "grunt-wordpress": "1.0.1",
+    "grunt-jquery-content": "0.2.2",
+    "rimraf": "2.0.2"
   },
   "devDependencies": {},
   "keywords": []
